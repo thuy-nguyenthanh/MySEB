@@ -83,7 +83,7 @@ Phần mềm **MySEB** được phát triển với mục tiêu phục vụ giá
 
 #### Màn hình Login
 <p align="center">
-  <img src="./images/student_login.png" alt="Màn hình dành cho giáo viên" width="800">
+  <img src="./images/student_login.png" alt="Màn hình dành cho giáo viên" width="300">
 </p>
 
 #### Màn hình sử dụng
