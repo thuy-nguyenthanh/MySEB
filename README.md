@@ -1,11 +1,11 @@
-# 🧭 MySEB - My Safe Exam Browser
+# MySEB - My Safe Exam Browser
 
 **MySEB (My Safe Exam Browser)** là phần mềm hỗ trợ tổ chức thi và kiểm soát môi trường học tập an toàn, giúp **giáo viên** quản lý những phần mềm và trang web mà **người học** được phép sử dụng trong quá trình làm bài hoặc học trực tuyến.  
 Phần mềm được phát triển với mục tiêu **ngăn chặn gian lận, đạo văn và sử dụng công cụ AI** trong các kỳ thi trực tuyến, đồng thời đảm bảo tính công bằng và trung thực học thuật.
 
 ---
 
-## 🎯 Mục tiêu
+## Mục tiêu
 
 - Tạo môi trường thi, học trực tuyến **an toàn và kiểm soát được**.  
 - Hạn chế tối đa việc **sử dụng phần mềm, trang web, hoặc công cụ AI trái phép**.  
@@ -14,13 +14,13 @@ Phần mềm được phát triển với mục tiêu **ngăn chặn gian lận,
 
 ---
 
-## ⚙️ Các phân hệ chính
+## Các phân hệ chính
 
-### 👨‍🏫 1. Phân hệ Dành cho Giáo viên
+### 1. Phân hệ Dành cho Giáo viên
 
 Giúp giáo viên thiết lập và kiểm soát toàn bộ môi trường thi/học trực tuyến.
 
-#### 🔧 Tính năng nổi bật:
+#### Tính năng nổi bật:
 - **Cấu hình môi trường thi:**  
   Xác định danh sách phần mềm và trang web mà người học được phép sử dụng.
 - **Quản lý truy cập:**  
@@ -34,11 +34,11 @@ Giúp giáo viên thiết lập và kiểm soát toàn bộ môi trường thi/h
 
 ---
 
-### 🎓 2. Phân hệ Dành cho Người học
+### 2. Phân hệ Dành cho Người học
 
 Giúp người học tham gia vào các phiên thi hoặc học tập trực tuyến trong môi trường được kiểm soát.
 
-#### 🧩 Tính năng nổi bật:
+#### Tính năng nổi bật:
 - **Đăng nhập an toàn:**  
   Người học đăng nhập bằng tài khoản do giáo viên hoặc hệ thống cung cấp.
 - **Giới hạn ứng dụng & trang web:**  
@@ -50,9 +50,7 @@ Giúp người học tham gia vào các phiên thi hoặc học tập trực tuy
 
 ---
 
----
-
-## 🚀 Lợi ích nổi bật
+## Lợi ích nổi bật
 
 - 🔒 **Tăng tính trung thực** trong học tập và thi cử.  
 - 🧠 **Ngăn chặn sử dụng AI** hoặc công cụ gian lận khác.  
@@ -61,13 +59,13 @@ Giúp người học tham gia vào các phiên thi hoặc học tập trực tuy
 
 ---
 
-## 📄 Giấy phép sử dụng
+## Giấy phép sử dụng
 
 Phần mềm **MySEB** được phát triển với mục tiêu phục vụ giáo dục, tuân thủ các quy định về bảo mật và quyền riêng tư người dùng.  
 
 ---
 
-## 👥 Nhóm phát triển
+## Nhóm phát triển
 
 - **Liên hệ:** thuynt@due.edu.vn
 - **Đóng góp:** Mọi đề xuất, báo lỗi hoặc đóng góp đều được hoan nghênh thông qua [GitHub Issues](#).
