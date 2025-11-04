@@ -52,10 +52,10 @@ Giúp người học tham gia vào các phiên thi hoặc học tập trực tuy
 
 ## Lợi ích nổi bật
 
-- 🔒 **Tăng tính trung thực** trong học tập và thi cử.  
-- 🧠 **Ngăn chặn sử dụng AI** hoặc công cụ gian lận khác.  
-- ⚙️ **Tùy chỉnh linh hoạt** cho từng môn học, lớp học hoặc kỳ thi.  
-- 📊 **Báo cáo chi tiết**, dễ dàng tích hợp với hệ thống LMS (Moodle, Canvas, v.v.).
+- **Tăng tính trung thực** trong học tập và thi cử.  
+- **Ngăn chặn sử dụng AI** hoặc công cụ gian lận khác.  
+- **Tùy chỉnh linh hoạt** cho từng môn học, lớp học hoặc kỳ thi.  
+- **Báo cáo chi tiết**, dễ dàng tích hợp với hệ thống LMS (Moodle, Canvas, v.v.).
 
 ---
 
@@ -69,5 +69,4 @@ Phần mềm **MySEB** được phát triển với mục tiêu phục vụ giá
 
 - **Liên hệ:** thuynt@due.edu.vn
 - **Đóng góp:** Mọi đề xuất, báo lỗi hoặc đóng góp đều được hoan nghênh thông qua [GitHub Issues](#).
-## 🧩 Kiến trúc tổng quan
 
