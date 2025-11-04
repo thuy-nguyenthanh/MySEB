@@ -74,7 +74,23 @@ Phần mềm **MySEB** được phát triển với mục tiêu phục vụ giá
 
 ## Một số màn hình của ứng dụng
 
-### Phân hệ dành cho giáo viên
+### Phân hệ dành cho Giáo viên
 <p align="center">
-  <img src="./images/teacher_screen.png" alt="Màn hình dành cho giáo viên" width="200">
+  <img src="./images/teacher_screen.png" alt="Màn hình dành cho giáo viên" width="800">
+</p>
+
+### Phân hệ dành cho Người học
+
+#### Màn hình Login
+<p align="center">
+  <img src="./images/student_login.png" alt="Màn hình dành cho giáo viên" width="800">
+</p>
+
+#### Màn hình sử dụng
+<p align="center">
+  <img src="./images/student_screen1.png" alt="Màn hình dành cho giáo viên" width="800">
+</p>
+
+<p align="center">
+  <img src="./images/student_screen2.png" alt="Màn hình dành cho giáo viên" width="800">
 </p>
