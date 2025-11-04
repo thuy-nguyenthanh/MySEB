@@ -19,7 +19,7 @@ Phần mềm được phát triển với mục tiêu **ngăn chặn gian lận,
 - Thiết bị: Máy tính cá nhân hoặc laptop;
 - Hệ điều hành: Windows;
 
-Note: Windows 10 cần cài thêm gói Webview2 (<a href="https://developer.microsoft.com/vi-vn/microsoft-edge/webview2?form=MA13LH#download">tải về</a>)
+Note: Windows 10 cần cài thêm gói Webview2 (<a href="https://developer.microsoft.com/vi-vn/microsoft-edge/webview2?form=MA13LH#download" target="_blank">tải về</a>)
 
 ---
 
