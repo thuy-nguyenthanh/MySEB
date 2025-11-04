@@ -38,8 +38,6 @@ Giúp giáo viên thiết lập và kiểm soát toàn bộ môi trường thi/h
   Theo dõi thời gian truy cập, thao tác của người học và phát hiện hành vi bất thường.
 - **Tùy chỉnh chính sách:**  
   Lưu và áp dụng nhanh các bộ cấu hình cho từng lớp học, bài kiểm tra hoặc kỳ thi.
-- **Báo cáo & nhật ký:**  
-  Tự động ghi lại log hoạt động để phục vụ việc đánh giá hoặc tra soát sau kỳ thi.
 
 ---
 
@@ -54,8 +52,6 @@ Giúp người học tham gia vào các phiên thi hoặc học tập trực tuy
   Sau khi đăng nhập, chỉ các phần mềm và trang web được giáo viên cho phép mới có thể mở.
 - **Khóa môi trường làm bài:**  
   Ngăn truy cập các phần mềm khác, chặn truy cập hệ thống hoặc công cụ AI trong thời gian thi.
-- **Tự động lưu & bảo mật:**  
-  Bài làm và dữ liệu thi được lưu trữ an toàn, tránh mất dữ liệu hoặc can thiệp trái phép.
 
 ---
 
