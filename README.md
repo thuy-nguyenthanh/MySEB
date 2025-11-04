@@ -68,5 +68,5 @@ Phần mềm **MySEB** được phát triển với mục tiêu phục vụ giá
 ## Nhóm phát triển
 
 - **Liên hệ:** thuynt@due.edu.vn
-- **Đóng góp:** Mọi đề xuất, báo lỗi hoặc đóng góp đều được hoan nghênh thông qua [GitHub Issues](#).
+- **Đóng góp:** Mọi đề xuất, báo lỗi hoặc đóng góp đều được hoan nghênh thông qua [GitHub Issues].
 
