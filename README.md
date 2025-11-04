@@ -70,3 +70,11 @@ Phần mềm **MySEB** được phát triển với mục tiêu phục vụ giá
 - **Liên hệ:** thuynt@due.edu.vn
 - **Đóng góp:** Mọi đề xuất, báo lỗi hoặc đóng góp đều được hoan nghênh thông qua [GitHub Issues].
 
+---
+
+## Một số màn hình của ứng dụng
+
+### Phân hệ dành cho giáo viên
+<p align="center">
+  <img src="./images/teacher_screen.png" alt="Màn hình dành cho giáo viên" width="200">
+</p>
