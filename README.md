@@ -61,32 +61,15 @@ Giúp người học tham gia vào các phiên thi hoặc học tập trực tuy
 
 ---
 
-## 🏗️ Hướng phát triển (Roadmap)
-
-- [ ] Tích hợp với hệ thống quản lý học tập (LMS).  
-- [ ] Bổ sung tính năng nhận diện hành vi bất thường bằng AI.  
-- [ ] Hỗ trợ giám sát thời gian thực qua dashboard.  
-- [ ] Hỗ trợ đa nền tảng: Windows, macOS, Linux.
-
----
-
 ## 📄 Giấy phép sử dụng
 
 Phần mềm **MySEB** được phát triển với mục tiêu phục vụ giáo dục, tuân thủ các quy định về bảo mật và quyền riêng tư người dùng.  
-Giấy phép sử dụng: **(cập nhật sau)**
 
 ---
 
 ## 👥 Nhóm phát triển
 
-- **Chủ nhiệm dự án:** (Tên của bạn hoặc tổ chức phát triển)  
-- **Liên hệ:** (email liên hệ / website)  
+- **Liên hệ:** thuynt@due.edu.vn
 - **Đóng góp:** Mọi đề xuất, báo lỗi hoặc đóng góp đều được hoan nghênh thông qua [GitHub Issues](#).
-
----
-
-> 🧩 *MySEB - Bảo vệ tính trung thực trong học tập và thi cử thời đại số.*
-
-
 ## 🧩 Kiến trúc tổng quan
 
