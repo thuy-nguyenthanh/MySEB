@@ -19,8 +19,8 @@ Phần mềm được phát triển với mục tiêu **ngăn chặn gian lận,
 - Thiết bị: Máy tính cá nhân hoặc laptop;
 - Hệ điều hành: Windows;
 
-Note, Windows 10 cần cài thêm: 
-- .Net 4.7.2 (<a href="https://go.microsoft.com/fwlink/?linkid=863265" target="_blank">tải về</a>)
+### Windows 10:
+- Cần update windows hoặc cài **.Net 4.7.2** (<a href="https://go.microsoft.com/fwlink/?linkid=863265" target="_blank">tải về</a>)
 - Gói Webview2 (<a href="https://developer.microsoft.com/vi-vn/microsoft-edge/webview2?form=MA13LH#download" target="_blank">tải về</a>)
 
 ---
